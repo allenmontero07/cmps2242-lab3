@@ -1,0 +1,15 @@
+# Go binary files
+*.exe
+*.out
+*.test
+
+# Compiled programs
+main
+api
+
+# Go workspace
+go.work.sum
+
+# Editor files
+.vscode/
+
